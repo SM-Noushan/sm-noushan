@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/bNnwdyF/github-banner.png" />
+<a href="https://sm-nowshan-portfolio.netlify.app">
+  <img src="https://i.ibb.co/bNnwdyF/github-banner.png" />
+</a>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 I'm a dedicated web developer specializing in React, with a solid educational background and professional training. I'm currently diving into the MERN stack to broaden my skill set. Check out my projects on GitHub to see what I've been working on!
