@@ -1,4 +1,4 @@
-<a href="https://sm-nowshan-portfolio.netlify.app">
+<a href="https://sm-nowshan-portfolio.netlify.app" target="_blank">
   <img src="https://i.ibb.co/bNnwdyF/github-banner.png" />
 </a>
 
